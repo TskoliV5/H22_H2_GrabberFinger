@@ -14,3 +14,44 @@ hópurinn með líkamann fór strax að gera hreifinguna fyrir hendina á meðan
 
 [það sem við hópurin enduðum á því að velja var þetta(https://www.youtube.com/watch?v=Ill7k_zleuQ)]
 
+kóði
+#include "SoftwareSerial.h"
+#include "DFRobotDFPlayerMini.h"
+#include <Servo.h>
+
+SoftwareSerial mySoftwareSerial(10, 11);
+DFRobotDFPlayerMini myDFPlayer;
+
+int servoPin = 9;
+
+Servo servo;
+
+int angle = 0;
+
+void setup() {
+    servo.attach(servoPin);
+
+      mySoftwareSerial.begin(9600);
+        if (!myDFPlayer.begin(mySoftwareSerial)) {
+    while(true);
+  }
+  myDFPlayer.reset();
+  myDFPlayer.volume(0);
+  myDFPlayer.play(1);
+}
+
+void loop() {
+
+    for(angle = 0; angle < 180; angle++) {
+        servo.write(angle);
+
+        delay(1);
+    }
+
+    for(angle = 180; angle > 0; angle--) {
+        servo.write(angle);
+
+        delay(2000);
+
+    }
+}
