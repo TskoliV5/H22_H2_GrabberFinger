@@ -12,3 +12,5 @@ vekefnin skiptu hópnum svona Hávar og Svölnir með hausinn og Breki með isab
 hópurinn með líkamann fór strax að gera hreifinguna fyrir hendina á meðan hópurinn með hauskúpuna fór að reina að finna út hvernig þeir myndu hreifa kjálkann.
 
 
+[það sem við hópurin enduðum á því að velja var þetta(https://www.youtube.com/watch?v=Ill7k_zleuQ)]
+
