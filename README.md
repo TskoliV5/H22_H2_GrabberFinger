@@ -15,6 +15,8 @@ hópurinn með líkamann fór strax að gera hreifinguna fyrir hendina á meðan
 [það sem við hópurin enduðum á því að velja var þetta(https://www.youtube.com/watch?v=Ill7k_zleuQ)]
 
 kóði
+
+
 #include "SoftwareSerial.h"
 #include "DFRobotDFPlayerMini.h"
 #include <Servo.h>
