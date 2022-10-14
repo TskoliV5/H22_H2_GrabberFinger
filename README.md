@@ -1,7 +1,6 @@
 # verkefni-5
-Verkefni 5 
 
-Hópur:
+Hópur
 | ----------- |
 | Breki Hlynsson    |
 |Svölnir Ás Hrafnkelsson|
