@@ -16,7 +16,7 @@ hópurinn með líkamann fór strax að gera hreifinguna fyrir hendina á meðan
 
 kóði
 
-
+```
 #include "SoftwareSerial.h"
 #include "DFRobotDFPlayerMini.h"
 #include <Servo.h>
@@ -57,3 +57,4 @@ void loop() {
 
     }
 }
+```
