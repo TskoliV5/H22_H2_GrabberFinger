@@ -7,23 +7,23 @@ Hópur
 |Hávarr Hrafn Jónsson|
 |Isabelle Stella Markúsdóttir|
 
-youtube myndband af Verkefninu að virka: [https://youtu.be/oL7oJQdIw5c](https://youtu.be/oL7oJQdIw5c)
+youtube myndband af verkefninu að virka: [https://youtu.be/oL7oJQdIw5c](https://youtu.be/oL7oJQdIw5c)
 
-Verkefni 5 gengur út á það að nýta allt sem við lærðum í gegnum áfangan til að gera eina stóra hrekkjavöku hauskúpu.
+Verkefni 5 gengur út á það að nýta allt sem við lærðum í gegnum áfangann til að gera eina stóra hrekkjavöku hauskúpu.
 Til að byrja með þurfti maður að velja einn af nokkrum mögulegum týpum af þessu og svo mátti maður byrja.
 Við byrjuðum með því að hugsa hvernig hlut maður ætlaði að gera og hvernig maður myndi gera hann.
 Það tók okkur smá tíma mest vegnis að hugsa hvernig við ættluðum að gera hann það tók okkur engan tíma að ákveða hvað við ætluðum að gera.
 Eftir að við fengum alt í verkefnið fórum við af stað tveir með hausinn og tveir með líkaman.
 Það tók slatta af tíma til að ná miklu með hausinn en líkaminn byrjaði mjög vel.
-Hópurinn skipti verkfninu þannig að Hávarr og Svölnir gerðu hausinn en  Breki með Isabelle gerðu líkamanum. Þessir hópar voru fínir.
+Hópurinn skipti verkfninu þannig að Hávarr og Svölnir gerðu hausinn en Breki með Isabelle gerðu líkamanum. 
 Hópurinn með líkamann fór strax að gera hreyfinguna fyrir hendina á meðan hópurinn með hauskúpuna fór að reyna að finna út hvernig þeir myndu hreyfa kjálkann.
 
-Efnið sem við notuðum  í fígúruna var plaströr, viðarplötur, koparvírar, gervihauskúpu og hendi. dc mótor og servo mótor í gatagrind sem tengdust við gata renninga með mismunandi skrúfum og festingu voru notaðir til að búa til hreyfingarnar
+Efnið sem við notuðum  í fígúruna var plaströr, viðarplötur, koparvírar, gervihauskúpu og hendi. dc mótor og servo mótor í gatagrind sem tengdust við gata renninga með mismunandi skrúfum og festingu voru notaðir til að búa til hreyfingarnar.
 
 
 [það sem við hópurin enduðum á því að velja var þetta](https://www.youtube.com/watch?v=Ill7k_zleuQ)
 
-## Mismunandi myndir af verkefninu
+## Myndir af verkefninu
 
 ![20221014_131630](https://user-images.githubusercontent.com/88351016/195892488-cf5715de-e210-4cc5-bbbf-549be87fa1be.jpg)
 
@@ -35,12 +35,10 @@ Efnið sem við notuðum  í fígúruna var plaströr, viðarplötur, koparvíra
 
 ![20221014_130707](https://user-images.githubusercontent.com/88351016/195892997-3b894441-6bb9-4e14-8432-2219bb897ef4.jpg)
 
-
 ![20221014_124202](https://user-images.githubusercontent.com/88351016/195892661-31dde7d5-5600-4ed3-bc8c-c28f4396b893.jpg)
 
 
-
-kóði fyrir búkin:
+Kóði fyrir búkinn:
 
 ```C++
 #include <Servo.h>
