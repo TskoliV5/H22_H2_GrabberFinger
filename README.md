@@ -1,4 +1,5 @@
-# verkefni-5
+# Verkefni 5
+animatronics fígúra 
 
 Hópur
 | ----------- |
@@ -7,7 +8,7 @@ Hópur
 |Hávarr Hrafn Jónsson|
 |Isabelle Stella Markúsdóttir|
 
-youtube myndband af verkefninu að virka: [https://youtu.be/oL7oJQdIw5c](https://youtu.be/oL7oJQdIw5c)
+Youtube myndband af verkefninu: [https://youtu.be/oL7oJQdIw5c](https://youtu.be/oL7oJQdIw5c)
 
 Verkefni 5 gengur út á það að nýta allt sem við lærðum í gegnum áfangann til að gera eina stóra hrekkjavöku hauskúpu.
 Til að byrja með þurfti maður að velja einn af nokkrum mögulegum týpum af þessu og svo mátti maður byrja.
