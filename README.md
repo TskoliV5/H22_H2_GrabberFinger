@@ -7,7 +7,7 @@ Hópur
 |Hávarr Hrafn Jónsson|
 |Isabelle Stella Markúsdóttir|
 
-youtube mindband af Verkefninu að virka: [https://youtu.be/oL7oJQdIw5c](https://youtu.be/oL7oJQdIw5c)
+youtube myndband af Verkefninu að virka: [https://youtu.be/oL7oJQdIw5c](https://youtu.be/oL7oJQdIw5c)
 
 Verkefni 5 gengur út á það að nýta allt sem við lærðum í gegnum áfangan til að gera eina stóra hrekkjavöku hauskúpu.
 Til að byrja með þurfti maður að velja einn af nokkrum mögulegum týpum af þessu og svo mátti maður byrja.
@@ -23,7 +23,7 @@ Efnið sem við notuðum  í fígúruna var plaströr, viðarplötur, koparvíra
 
 [það sem við hópurin enduðum á því að velja var þetta](https://www.youtube.com/watch?v=Ill7k_zleuQ)
 
-## Mismunandi mindir af verkefninu
+## Mismunandi myndir af verkefninu
 
 ![20221014_131630](https://user-images.githubusercontent.com/88351016/195892488-cf5715de-e210-4cc5-bbbf-549be87fa1be.jpg)
 
@@ -40,15 +40,9 @@ Efnið sem við notuðum  í fígúruna var plaströr, viðarplötur, koparvíra
 
 
 
-
-
-
-
-
-
 kóði fyrir búkin:
 
-```
+```C++
 #include <Servo.h>
 
   // Motor A connections
