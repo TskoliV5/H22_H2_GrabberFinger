@@ -1,5 +1,4 @@
-# Verkefni 5
-animatronics fígúra 
+# Verkefni 5: Animatronics fígúra 
 
 Hópur
 | ----------- |
